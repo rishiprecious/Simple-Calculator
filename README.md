@@ -1,2 +1,1 @@
-"# simple-calculator" 
-"# simple_calculator" 
+"# Simple-Calculator" 
